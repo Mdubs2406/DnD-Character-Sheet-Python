@@ -4,7 +4,7 @@ A Python application for creating and managing Dungeons & Dragons 5th edtion
 characters.
 
 ### Features
-- Character creation
+- Interactive Character creation
 - Ability score management
 
 ### Technologies
